@@ -1,7 +1,7 @@
-# International Youth Foundation (IYF) Website
+# International Youth Fellowship(IYF) Website
 
 ## Overview
-The **International Youth Foundation (IYF)** website is designed to empower young individuals through leadership training, mentorship, and skill-building programs. The platform offers resources, events, and opportunities for youth to connect, grow, and lead.
+The **International Youth Fellowship (IYF)** website is designed to empower young individuals through leadership training, mentorship, and skill-building programs. The platform offers resources, events, and opportunities for youth to connect, grow, and lead.
 
 ## Features
 - ✅ **Home Page:** Showcases IYF’s mission and vision.
